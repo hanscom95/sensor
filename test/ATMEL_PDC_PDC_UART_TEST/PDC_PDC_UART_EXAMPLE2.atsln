@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "PDC_PDC_UART_EXAMPLE2", "PDC_PDC_UART_EXAMPLE2\PDC_PDC_UART_EXAMPLE2.cproj", "{20D8A986-BDBE-4FCD-8430-D29C9C915B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D8A986-BDBE-4FCD-8430-D29C9C915B3A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{20D8A986-BDBE-4FCD-8430-D29C9C915B3A}.Debug|ARM.Build.0 = Debug|ARM
+		{20D8A986-BDBE-4FCD-8430-D29C9C915B3A}.Release|ARM.ActiveCfg = Release|ARM
+		{20D8A986-BDBE-4FCD-8430-D29C9C915B3A}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
