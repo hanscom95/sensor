@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "cdc_moon_demo", "sensor_eval_wifi\cdc_moon_demo.cproj", "{A9E06380-A88F-42D9-ABC3-EF9FB11D3246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E06380-A88F-42D9-ABC3-EF9FB11D3246}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A9E06380-A88F-42D9-ABC3-EF9FB11D3246}.Debug|AVR.Build.0 = Debug|AVR
+		{A9E06380-A88F-42D9-ABC3-EF9FB11D3246}.Release|AVR.ActiveCfg = Release|AVR
+		{A9E06380-A88F-42D9-ABC3-EF9FB11D3246}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
