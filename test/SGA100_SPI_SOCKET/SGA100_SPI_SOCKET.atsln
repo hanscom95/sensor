@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SGA100_SPI_SOCKET", "SGA100_SPI_SOCKET\SGA100_SPI_SOCKET.cproj", "{05AF1C93-E746-47E9-B47B-EB434A039132}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DEVICE_EXAMPLE1", "..\..\DEVICE_TEST\DEVICE_EXAMPLE1\DEVICE_EXAMPLE1.cproj", "{A42A4A06-1F09-48C3-A4B4-BAED63854DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05AF1C93-E746-47E9-B47B-EB434A039132}.Debug|AVR.ActiveCfg = Debug|AVR
+		{05AF1C93-E746-47E9-B47B-EB434A039132}.Debug|AVR.Build.0 = Debug|AVR
+		{05AF1C93-E746-47E9-B47B-EB434A039132}.Release|AVR.ActiveCfg = Release|AVR
+		{05AF1C93-E746-47E9-B47B-EB434A039132}.Release|AVR.Build.0 = Release|AVR
+		{A42A4A06-1F09-48C3-A4B4-BAED63854DFD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A42A4A06-1F09-48C3-A4B4-BAED63854DFD}.Debug|AVR.Build.0 = Debug|AVR
+		{A42A4A06-1F09-48C3-A4B4-BAED63854DFD}.Release|AVR.ActiveCfg = Release|AVR
+		{A42A4A06-1F09-48C3-A4B4-BAED63854DFD}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

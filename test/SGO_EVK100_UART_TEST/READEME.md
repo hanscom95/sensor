@@ -1,4 +1,4 @@
-Standing-Egg SGO EVK 프로그램 이다.<br>
+Standing-Egg SGO100 EVK MCU firmware<br>
 Atmel Studio tool이 사용 되었으며 <b>(주)스탠딩 에그</b>에서 제작한.
 Atmel UART 방식을 이용한 wifi module 통신 프로그램이다.
 

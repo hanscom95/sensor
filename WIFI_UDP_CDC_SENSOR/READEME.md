@@ -1,4 +1,4 @@
-Standing-Egg Sensor EVK 프로그램 이다.<br>
+Standing-Egg Sensor EVK MCU Firmware 이다.<br>
 Atmel Studio tool이 사용 되었으며 <B>(주)스탠딩 에그</B>에서 제작한 SGA100 센서를 읽는 코드와 
 Atmel cdc driver를 통해 wifi 및 pc와 serial 통신을 하는 프로젝트 이다.
 
